@@ -13,4 +13,4 @@ Author - Rahul Singh
 <l1>RAM Unit                :- 16GB DDR4-2133 </l1>
 <l1>SSD                     :- Micron MTFDDAV256GB PCI m.2ssd<l1>
 <l1>Audio                   :- Conexant CX20724 HD </l1>
-<l1>Wi_Fi/Bluetooth         :- Intel Wireless-AC 8260
+<l1>Wi_Fi/Bluetooth         :- Intel Wireless-AC 8260 </l1>
