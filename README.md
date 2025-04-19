@@ -13,4 +13,3 @@ In this EFI, My Machine SMBIOS is USED, So please change SMBIOS acording to your
 <br><l1>Audio                   :- Conexant CX20724 HD </l1>
 <br><l1>Wi_Fi/Bluetooth         :- Intel Wireless-AC 8260 </l1>
 <br><l1>Ethernet                :- Intel l219-LM </l1>
-<br>
